@@ -6,6 +6,8 @@ IT Super Menu is HelpDesk/IT Menu script written by Haim Cohen.
 It’s a nice, easy to understand, and very easy-to-modify script that’s written in plain, good old command prompt style. 
 It contains around 20 or so of those frequently used tasks that many IT and help desk professionals may need to use
 
+You can see screenshots here:
+https://github.com/sk3pp3r/IT-Super-Menu/wiki/Screenshot
 
 
 List commands, scripts and tools:
