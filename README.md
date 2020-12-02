@@ -11,6 +11,8 @@ It contains around 20 or so of those frequently used tasks that many IT and help
 You can see screenshots here:
 https://github.com/sk3pp3r/IT-Super-Menu/wiki/Screenshot
 
+Read mroe about this script on the [Petri website](https://petri.com/handy-it-help-desk-configuration-script)
+
 ![Main Menu](https://i2.wp.com/blogs.microsoft.co.il/skepper/wp-content/uploads/sites/1530/2014/09/IT-Super-Menu-by-Haim-Cohen-2014-1.png?w=820)
 
 List commands, scripts and tools:
